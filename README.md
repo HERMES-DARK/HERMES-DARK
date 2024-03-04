@@ -4,7 +4,7 @@
 <LINK real="stylesheet"href="style.css">
 <HEAD>
 </HEAD>
-<body><IMG="https://mimo.app/r/lighthouse.png"  </body>
+<body><IMG src="https://mimo.app/r/lighthouse.png" height="300" widht="100"</img> <h1>renatos lanches</h1> </body>
     
     
 
